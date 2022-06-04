@@ -3,7 +3,7 @@
 <hr>
 
 ### :man_office_worker: About Me:
-![Aniket Maurya Banner](https://raw.githubusercontent.com/dwXmRQa - Imgur.png)
+![Aniket Maurya Banner](https://github.com/aniket1702/aniket1702/dwXmRQa - Imgur.png)
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <hr>
