@@ -22,9 +22,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aniket1702&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket1702&layout=compact&theme=vision-friendly-dark)]([[https://github.com/aniket1702/aniket1702](https://github.com/aniket1702/)])
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket1702&show_icons=true&theme=dark&hide_border=true) &nbsp;&nbsp;&nbsp;   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aniket1702&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <hr>
