@@ -31,4 +31,4 @@
 
 ### :handshake: Follow me on:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/aniketmaurya1702)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aniketmaurya1702)
