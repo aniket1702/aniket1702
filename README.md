@@ -1,9 +1,8 @@
-![Aniket Maurya Banner](assets/Aniket.png)
 <h2>Hey there! I'm Aniket Maurya</h2>
 
 <div>
   
-  I'm Aniket Maurya! I'm a **QA Engineer**, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
+With over three years of dedicated experience as an SDET/QA Engineer, my focus revolves around the meticulous construction of automation frameworks utilizing an array of tools including Selenium, Java, TestNG, Karate Framework, POM Framework, and Maven. My primary professional objective is to engineer a resilient framework tailored for web automation, capable of seamless operation across diverse browsers such as Chrome, Firefox, and beyond. My expertise encompasses the development of efficient solutions, meticulously designed to uphold the reliability and quality of software products through systematic testing methodologies and strategic automation implementations.
 <br>
 
 </div>
