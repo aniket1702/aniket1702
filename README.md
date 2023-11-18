@@ -19,7 +19,6 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 </div>
 
@@ -27,8 +26,7 @@
 
 <h2> :fire: My Stats : </h2>
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket1702&show_icons=true&theme=dark&hide_border=true) &nbsp;&nbsp;&nbsp;   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aniket1702&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket1702&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> :handshake: Follow me on: </h2>
 
