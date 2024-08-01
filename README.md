@@ -2,7 +2,7 @@
 
 <div>
   
-With over three years of dedicated experience as an SDET/QA Engineer, my focus revolves around the meticulous construction of automation frameworks utilizing an array of tools including Selenium, Java, TestNG, Karate Framework, POM Framework, and Maven. My primary professional objective is to engineer a resilient framework tailored for web automation, capable of seamless operation across diverse browsers such as Chrome, Firefox, and beyond. My expertise encompasses the development of efficient solutions, meticulously designed to uphold the reliability and quality of software products through systematic testing methodologies and strategic automation implementations.
+With over four years of dedicated experience as an SDET/QA Engineer, my focus revolves around the meticulous construction of automation frameworks utilizing an array of tools including Selenium, Java, TestNG, Karate Framework, POM Framework, and Maven. My primary professional objective is to engineer a resilient framework tailored for web automation, capable of seamless operation across diverse browsers such as Chrome, Firefox, and beyond. My expertise encompasses the development of efficient solutions, meticulously designed to uphold the reliability and quality of software products through systematic testing methodologies and strategic automation implementations.
 <br>
 
 </div>
